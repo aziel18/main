@@ -5,11 +5,11 @@ This repository contains the documentation website code and Markdown source file
 
 GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
 
-Use the table of contents icon <img alt="Table of contents icon" src="./contributing/images/table-of-contents.png" width="25" height="25" /> on the top right corner of this document to navigate to a specific section quickly.
+Use the table of contents icon <"Table of contents icon" src="./contributing/table-of-contents.png" /> on the top right corner of this document to navigate to a  section quickly.
 
 ## Contributing
 
-We accept different types of contributions, including some that don't require you to write a single line of code. For detailed instructions on how to get started with our project, see [About contributing to GitHub Docs](https://docs.github.com/en/contributing/collaborating-on-github-docs/about-contributing-to-github-docs).
+We are accept different types of contributions, including some that don't require you to write a single line of code. For detailed instructions on how to get started with our project, see [About contributing to GitHub Docs](https://docs.github.com/en/contributing/collaborating-on-github-docs/about-contributing-to-github-docs).
 
 ### Ways to contribute
 
@@ -17,7 +17,7 @@ On the GitHub Docs site, you can contribute by clicking the **Make a contributio
 
 You can also contribute by creating a local environment or opening a Codespace. For more information, see [Setting up your environment to work on GitHub Docs](https://docs.github.com/en/contributing/setting-up-your-environment-to-work-on-github-docs).
 
-<img alt="Contribution call-to-action" src="./contributing/images/contribution_cta.png" width="400">
+<="Contribution-to-action" src="./contributing/contribution_cta.png">
 
 For more complex contributions, please open an issue using the most appropriate [issue template](https://github.com/github/docs/issues/new/choose) to describe the changes you'd like to see.
 
@@ -37,9 +37,9 @@ In addition to the README you're reading right now, this repo includes other REA
 - [content/graphql/README.md](content/graphql/README.md)
 - [content/rest/README.md](content/rest/README.md)
 - [contributing/README.md](contributing/README.md)
-- [data/README.md](data/README.md)
-- [data/reusables/README.md](data/reusables/README.md)
-- [data/variables/README.md](data/variables/README.md)
+- [README.md](README.md)
+- [reusables/README.md](reusables/README.md)
+- [variables/README.md](variables/README.md)
 - [src/README.md](src/README.md)
 
 ## License
@@ -50,6 +50,6 @@ All other code in this repository is licensed under the [MIT license](LICENSE-CO
 
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
 
-## Thanks :purple_heart:
+## Thanks red_heart:
 
 Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you for being part of our :sparkles: community :sparkles:!
